@@ -15,6 +15,7 @@
 		B2DC69C1243956BA00FAC895 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2DC69BF243956BA00FAC895 /* LaunchScreen.storyboard */; };
 		B2DC69CC243961C100FAC895 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B2DC69CB243961C100FAC895 /* Pacifico-Regular.ttf */; };
 		B2DC69CE2439681C00FAC895 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DC69CD2439681C00FAC895 /* InfoView.swift */; };
+		B2DC69D024396C8000FAC895 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B2DC69CF24396C8000FAC895 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		B2DC69C2243956BA00FAC895 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B2DC69CB243961C100FAC895 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
 		B2DC69CD2439681C00FAC895 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		B2DC69CF24396C8000FAC895 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B2DC69D124396D2700FAC895 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +47,8 @@
 		B2DC69A8243956B900FAC895 = {
 			isa = PBXGroup;
 			children = (
+				B2DC69CF24396C8000FAC895 /* README.md */,
+				B2DC69D124396D2700FAC895 /* screenshot.png */,
 				B2DC69B3243956BA00FAC895 /* SaulCard */,
 				B2DC69B2243956BA00FAC895 /* Products */,
 			);
@@ -149,6 +154,7 @@
 			files = (
 				B2DC69C1243956BA00FAC895 /* LaunchScreen.storyboard in Resources */,
 				B2DC69CC243961C100FAC895 /* Pacifico-Regular.ttf in Resources */,
+				B2DC69D024396C8000FAC895 /* README.md in Resources */,
 				B2DC69BE243956BA00FAC895 /* Preview Assets.xcassets in Resources */,
 				B2DC69BB243956BA00FAC895 /* Assets.xcassets in Resources */,
 			);
